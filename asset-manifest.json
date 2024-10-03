@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AWP-TicTacToe/static/css/main.505353a4.css",
+    "main.js": "/AWP-TicTacToe/static/js/main.42698d45.js",
+    "index.html": "/AWP-TicTacToe/index.html",
+    "main.505353a4.css.map": "/AWP-TicTacToe/static/css/main.505353a4.css.map",
+    "main.42698d45.js.map": "/AWP-TicTacToe/static/js/main.42698d45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.505353a4.css",
+    "static/js/main.42698d45.js"
+  ]
+}
